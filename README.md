@@ -1,6 +1,6 @@
 # APP Layout
 
-Código sistema desenvolvido em parceria com o curso Talento Tech.
+Sistema desenvolvido em parceria com o curso Talento Tech.
 
 ## Getting Started
 
